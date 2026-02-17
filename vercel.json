@@ -1,0 +1,6 @@
+{
+  "public": true,
+  "buildCommand": "echo 'Static hosting'",
+  "outputDirectory": ".well-known",
+  "framework": "other"
+}
